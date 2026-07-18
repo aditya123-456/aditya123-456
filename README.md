@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Aditya Narayan
+# Hi👋, I'm Aditya Narayan
 
 ## 👨‍💻 Aspiring Software Developer
 

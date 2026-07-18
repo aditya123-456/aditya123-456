@@ -22,13 +22,13 @@ Passionate Software Developer with hands-on experience in Python and Django, spe
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c++,python,c,mysql" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,mysql" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,Bootstrap,Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=django,bootstrap,tailwind" />
 </p>
 
 ### 🧰 Tools & Technologies

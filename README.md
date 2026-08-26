@@ -1,12 +1,12 @@
-# Hi👋, I'm Aditya Narayan
+Hi👋, I'm Aditya Narayan
 
-## 👨‍💻 Aspiring Software Developer
+👨‍💻 Aspiring Software Developer
 
 Passionate Software Developer with hands-on experience in Python and Django, specializing in developing scalable, database-driven web applications and full-stack projects. Enthusiastic about solving real-world problems, continuously learning emerging technologies, and delivering reliable, efficient software solutions through clean architecture and best development practices.
 
 ---
 
-## 🚀 About Me
+🚀 About Me
 
 * 🌱 Learning and experimenting with Django and FastAPI to gain a deeper understanding of scalable backend application development
 * 🚀 Enjoy building **backend systems** and creating efficient, scalable web applications
@@ -24,7 +24,7 @@ Passionate Software Developer with hands-on experience in Python and Django, spe
   <img src="https://skillicons.dev/icons?i=cpp,c,python,mysql" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+⚙️ Frameworks & Libraries
 
 <p>
   <img src="https://skillicons.dev/icons?i=django,fastapi,bootstrap,tailwind" />
@@ -38,7 +38,7 @@ Passionate Software Developer with hands-on experience in Python and Django, spe
 
 ---
 
-## 🌐 Connect with Me
+🌐 Connect with Me
 
 <p>
   <a href="https://github.com/aditya123-456" target="_blank">

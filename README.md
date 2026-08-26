@@ -16,9 +16,9 @@ Passionate Software Developer with hands-on experience in Python and Django, spe
 
 ---
 
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
-### 💻 Languages
+ 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,c,python,mysql" />
@@ -30,7 +30,7 @@ Passionate Software Developer with hands-on experience in Python and Django, spe
   <img src="https://skillicons.dev/icons?i=django,fastapi,bootstrap,tailwind" />
   <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" height="48" alt="Django REST Framework" />
 </p>
-### 🧰 Tools & Technologies
+ 🧰 Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,mongodb,mysql,vscode,postman" />

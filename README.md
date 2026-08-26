@@ -28,9 +28,8 @@ Passionate Software Developer with hands-on experience in Python and Django, spe
 
 <p>
   <img src="https://skillicons.dev/icons?i=django,fastapi,bootstrap,tailwind" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorestframework/djangorestframework-original.svg" width="48" height="48" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" height="48" alt="Django REST Framework" />
 </p>
-
 ### 🧰 Tools & Technologies
 
 <p>

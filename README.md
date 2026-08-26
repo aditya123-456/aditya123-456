@@ -8,12 +8,11 @@ Passionate Software Developer with hands-on experience in Python and Django, spe
 
 ## 🚀 About Me
 
-* 🌱  Learning and experimenting with Django to gain a deeper understanding of scalable backend application development
+* 🌱 Learning and experimenting with Django and FastAPI to gain a deeper understanding of scalable backend application development
 * 🚀 Enjoy building **backend systems** and creating efficient, scalable web applications
 * 🧠 Sharpening my problem-solving abilities by consistently practicing **Data Structures & Algorithms (DSA)**
 * 🔍 Exploring modern development tools, frameworks, and industry best practices to improve my skills
 * 🎯 Working towards becoming a **Software Engineer** who develops reliable, scalable, and impactful software
-
 
 ---
 
@@ -28,13 +27,14 @@ Passionate Software Developer with hands-on experience in Python and Django, spe
 ### ⚙️ Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,bootstrap,tailwind" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorestframework/djangorestframework-original.svg" width="48" height="48" alt="Django REST Framework" />
 </p>
 
 ### 🧰 Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,mongodb,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,mongodb,mysql,vscode,postman" />
 </p>
 
 ---
@@ -49,5 +49,6 @@ Passionate Software Developer with hands-on experience in Python and Django, spe
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
+
 
 ---
